@@ -1,6 +1,33 @@
-.next
-node_modules
+# Dependencies
+node_modules/
+
+# Next.js build
+.next/
+out/
+
+# IDE & Editor
+.claude/
+.vscode/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 .claude
-erros.md
-CLAUDE.md
-SPEC-animacao.md
+.next
+cache
+dev
+claude.md   
+erros.md    
