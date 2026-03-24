@@ -1,2 +1,6 @@
 .next
 node_modules
+.claude
+erros.md
+CLAUDE.md
+SPEC-animacao.md

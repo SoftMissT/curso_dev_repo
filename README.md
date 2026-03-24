@@ -1,8 +1,8 @@
 # 📚 Minha Jornada de Aprendizado no curso.dev
 
-Este repositório documenta minha jornada e evolução nos estudos através do [curso.dev](https://curso.dev), ministrado por Filipe Deschamps. Aqui, aplico os conceitos aprendidos e construo projetos para solidificar o conhecimento.
+Este repositório é o registro da minha experiência de aprendizado com o [curso.dev](https://curso.dev) do Filipe Deschamps. Aqui, documento minha jornada, aplico os conceitos aprendidos e construo os projetos que solidificam meu conhecimento.
 
-O projeto que está no repositório é o resultado do que estou aprendendo.
+O projeto principal que você encontrará aqui é o resultado direto desses estudos.
 
 ## 🚀 O Projeto Atual: Calendário Animado
 
