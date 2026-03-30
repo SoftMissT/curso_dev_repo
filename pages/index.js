@@ -146,9 +146,7 @@ function NotesPanel() {
           <div style={styles.emptyState}>
             <span style={styles.emptyIcon}>🌙</span>
             <p style={styles.emptyText}>Nenhuma nota ainda...</p>
-            <p style={styles.emptySubtext}>
-              Comece documentando seu progresso
-            </p>
+            <p style={styles.emptySubtext}>Comece documentando seu progresso</p>
           </div>
         )}
         {filteredNotes.map((note) => {
@@ -189,7 +187,7 @@ function NotesPanel() {
 
 // ═══ CALENDAR CARD ═══
 function CalendarCard() {
-  const diaFinal = 8;
+  const diaFinal = 9;
   const totalDias = 50;
 
   const [displayDay, setDisplayDay] = useState(0);

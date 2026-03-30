@@ -1,4 +1,4 @@
-# 📚 Jornada de Aprendizado — curso.dev
+# 📚 Jornada de Aprendizado curso.dev
 
 <div align="center">
 
@@ -17,8 +17,8 @@ Registro da minha experiência com o [curso.dev](https://curso.dev) do Filipe De
 
 Uma dashboard interativa de estudos com duas áreas principais:
 
-- **📅 Calendário Animado** — Páginas de calendário são "arrancadas" com animação fluida, mostrando o progresso dos dias de estudo
-- **📝 Painel de Notas** — Área lateral para registrar o que você está estudando, projetando ou idealizando, com tags coloridas e persistência local
+- **📅 Calendário Animado** Páginas de calendário são "arrancadas" com animação fluida, mostrando o progresso dos dias de estudo
+- **📝 Painel de Notas** Área lateral para registrar o que você está estudando, projetando ou idealizando, com tags coloridas e persistência local
 
 ### Funcionalidades
 
